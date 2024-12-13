@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <!-- 中心裝飾框 -->
+  <rect x="100" y="30" width="600" height="120" rx="20" 
+        fill="#ffbe04" stroke="#ffbe04" stroke-width="5"/>
+  
+  <!-- 主標題文字 -->
+  <text x="400" y="115" font-family="Arial, sans-serif" font-size="80" 
+        font-weight="bold" text-anchor="middle" fill="#FFFFFF">
+    今天吃什麼
+  </text>
+  
+  <!-- 裝飾性圓圈 -->
+  <circle cx="150" cy="100" r="10" fill="#FFFFFF"/>
+  <circle cx="650" cy="100" r="10" fill="#FFFFFF"/>
+  
+  <!-- 角落裝飾星星 -->
+  <path d="M120,50 L125,60 L135,62 L127,70 L129,80 L120,75 L111,80 L113,70 L105,62 L115,60 Z" 
+        fill="#FFFFFF"/>
+  <path d="M680,50 L685,60 L695,62 L687,70 L689,80 L680,75 L671,80 L673,70 L665,62 L675,60 Z" 
+        fill="#FFFFFF"/>
+</svg>
